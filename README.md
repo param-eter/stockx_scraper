@@ -21,5 +21,6 @@ I used Firefox and the Gecko driver with Selenium, but you can change this is yo
 ## Future Improvements
 Better deal with pages not loading correctly (can happen occasionally).  
 Include a currency selector function.  
-Cleanup the data (Remove currency symbols, commas etc).
+Cleanup the data (Remove currency symbols, commas etc).  
+Convert dates.
 
